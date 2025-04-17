@@ -1,0 +1,28 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color:rgb(213,205,205);                      /*colour of background*/    
+}
+table{
+    width:100%;
+    border-radius:8px;
+    overflow:hidden;
+    background-color:azure;                 /*colour of table*/
+}
+th{
+    border: 1px solid #070707;                      /*border of title, (No. Name)*/
+    padding:12px;
+    background-color:#000000c7;                 /*colour of title, (No. Name)*/
+    color:white;
+}
+td{
+    border:0.5px solid #111111;            /*border of table, (data)*/       
+}
+h2{
+    font-size:28px;
+    color:#333;
+    text-align:center;
+}
